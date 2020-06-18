@@ -1,0 +1,10 @@
+aplikasi menggunakan web server xampp
+konfigurasi database : 
+nama : perpus
+file : perpus/database
+
+salin semua file dan folder ke htdocs dengan nama forlder perpus
+
+halaman admin = http://localhost/perpus/admin/dashboard_admin
+
+halaman user = http://localhost/perpus/dashboard
